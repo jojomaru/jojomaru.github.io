@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/img/head.png">
-  <Home msg="Hi, I'm Thomas Tai!!"/>
+  <Home msg="Hi, I'm Thomas Tai!"/>
 </template>
 
 <script>
